@@ -1,12 +1,26 @@
-# ReactFacts
+# React Static Website
+Nothing fancy, just my first website with React.
 
-How to run :
-+ `npm install`
-+ `npm run dev`
-             
-Stack : 
-+ Vite to launch and configure local server and to bundle source files
-+ React to design components
-+ HTML CSS JS
+## How to run :
++ npm install
++ npm run dev
 
-This static page was made following a Scrimba react tutorial, its goal was to showcase my ability to setup Vite and my knowledge in fundamental React and GitHub management.
+The web server should be available at http://localhost:5173/react-static/
+
+## Stack :
++ Vite to launch and configure local server and to bundle source files.
++ React to design components.
++ JS
++ CSS vanilla
++ HTML5
+
+## What I've learned :
++ Startup a project with vite (and yes it's fast);
++ Create a static website with React;
++ Deployed on GitHub Pages;
+
+## What I've continued to learn :
++ git usage,
++ css,
++ html,
++ js,
